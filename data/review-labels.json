@@ -1,0 +1,5406 @@
+[
+  {
+    "id": "R001",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R002",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R003",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R004",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R005",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R006",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R007",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R008",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R009",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R010",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R011",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R012",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R013",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R014",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R015",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R016",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R017",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R018",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R019",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R020",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R021",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R022",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R023",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R024",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R025",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R026",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R027",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R028",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R029",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R030",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R031",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R032",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R033",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R034",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-out",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R035",
+    "categories": [
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R036",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R037",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R038",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R039",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R040",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R041",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R042",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R043",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R044",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R045",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R046",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R047",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R048",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R049",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R050",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R051",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R052",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R053",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R054",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R055",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R056",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R057",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R058",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R059",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R060",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R061",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R062",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R063",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R064",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R065",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R066",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R067",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R068",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R069",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R070",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R071",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R072",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R073",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R074",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R075",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R076",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R077",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R078",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R079",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R080",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R081",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R082",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R083",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R084",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R085",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R086",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R087",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R088",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R089",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R090",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R091",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R092",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R093",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R094",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R095",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R096",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R097",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R098",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R099",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R100",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R101",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R102",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R103",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R104",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R105",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R106",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R107",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R108",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R109",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R110",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R111",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R112",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R113",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R114",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R115",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R116",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R117",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R118",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R119",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R120",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R121",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R122",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R123",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R124",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R125",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R126",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R127",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R128",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R129",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R130",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R131",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R132",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R133",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R134",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R135",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R136",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R137",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R138",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R139",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R140",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R141",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R142",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R143",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R144",
+    "categories": [
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R145",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R146",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R147",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R148",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R149",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R150",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R151",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R152",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R153",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R154",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R155",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R156",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R157",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R158",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R159",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R160",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R161",
+    "categories": [
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R162",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R163",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R164",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R165",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R166",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R167",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R168",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R169",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R170",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R171",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R172",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R173",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R174",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R175",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R176",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R177",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R178",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R179",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R180",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R181",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R182",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R183",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R184",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R185",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R186",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R187",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R188",
+    "categories": [
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R189",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R190",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R191",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R192",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R193",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R194",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R195",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Maintenance",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R196",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R197",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R198",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R199",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R200",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R201",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R202",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R203",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R204",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R205",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R206",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R207",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R208",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R209",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R210",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R211",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R212",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R213",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R214",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R215",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R216",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R217",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R218",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R219",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R220",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R221",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R222",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R223",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R224",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R225",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R226",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R227",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R228",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R229",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R230",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R231",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R232",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R233",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R234",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R235",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R236",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R237",
+    "categories": [
+      {
+        "category": "Maintenance",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R238",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R239",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R240",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R241",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R242",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R243",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R244",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R245",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R246",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Maintenance",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R247",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R248",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R249",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R250",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R251",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R252",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R253",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R254",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R255",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R256",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R257",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R258",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R259",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R260",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R261",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R262",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R263",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R264",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R265",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R266",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R267",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R268",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R269",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R270",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R271",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R272",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R273",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R274",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R275",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R276",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R277",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R278",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R279",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R280",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R281",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R282",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R283",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R284",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R285",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R286",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R287",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R288",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R289",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R290",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R291",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R292",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R293",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R294",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R295",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R296",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R297",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R298",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R299",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R300",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R301",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R302",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R303",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R304",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R305",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R306",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R307",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R308",
+    "categories": [
+      {
+        "category": "Maintenance",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R309",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R310",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R311",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R312",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R313",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R314",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R315",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R316",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R317",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R318",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R319",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R320",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R321",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R322",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R323",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R324",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R325",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R326",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R327",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R328",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R329",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R330",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R331",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R332",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R333",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R334",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R335",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R336",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R337",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R338",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R339",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R340",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R341",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-out",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R342",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R343",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R344",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R345",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R346",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R347",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R348",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R349",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Maintenance",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R350",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R351",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R352",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R353",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R354",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R355",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R356",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R357",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R358",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R359",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R360",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R361",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R362",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R363",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R364",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R365",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R366",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R367",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R368",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R369",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R370",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R371",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R372",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R373",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R374",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R375",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R376",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R377",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R378",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R379",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R380",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R381",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R382",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R383",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R384",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R385",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R386",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R387",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R388",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R389",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R390",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R391",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R392",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R393",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R394",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R395",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R396",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R397",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R398",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R399",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R400",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R401",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R402",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R403",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R404",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R405",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R406",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R407",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R408",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R409",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R410",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R411",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R412",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R413",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R414",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R415",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R416",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R417",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R418",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R419",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R420",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R421",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R422",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R423",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R424",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R425",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R426",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R427",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R428",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R429",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R430",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R431",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R432",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R433",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R434",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R435",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R436",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R437",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Other",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R438",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R439",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R440",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R441",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R442",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R443",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R444",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R445",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R446",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R447",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R448",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R449",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R450",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R451",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R452",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R453",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R454",
+    "categories": [
+      {
+        "category": "Other",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R455",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Other",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R456",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R457",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R458",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R459",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R460",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R461",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R462",
+    "categories": [
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R463",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R464",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R465",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R466",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R467",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R468",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Room",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R469",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R470",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R471",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R472",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R473",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R474",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R475",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R476",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R477",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R478",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R479",
+    "categories": [
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R480",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R481",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R482",
+    "categories": [
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R483",
+    "categories": [
+      {
+        "category": "Maintenance",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R484",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Food & Beverage",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R485",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R486",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R487",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R488",
+    "categories": [
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R489",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Breakfast",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R490",
+    "categories": [
+      {
+        "category": "Staff",
+        "sentiment": "positive"
+      },
+      {
+        "category": "Front Desk",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R491",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R492",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R493",
+    "categories": [
+      {
+        "category": "Housekeeping",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R494",
+    "categories": [
+      {
+        "category": "Check-out",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R495",
+    "categories": [
+      {
+        "category": "Location",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R496",
+    "categories": [
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Wi-Fi",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R497",
+    "categories": [
+      {
+        "category": "Parking",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R498",
+    "categories": [
+      {
+        "category": "Service",
+        "sentiment": "negative"
+      },
+      {
+        "category": "Check-in",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "R499",
+    "categories": [
+      {
+        "category": "Noise",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "R500",
+    "categories": [
+      {
+        "category": "Room",
+        "sentiment": "negative"
+      }
+    ]
+  }
+]

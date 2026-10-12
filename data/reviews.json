@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "R001",
+    "date": "2026-04-01",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R002",
+    "date": "2026-04-01",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Quiet room and a very restful night's sleep."
+  },
+  {
+    "id": "R003",
+    "date": "2026-04-01",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R004",
+    "date": "2026-04-02",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Loved the breakfast, fresh fruit and a great cooked menu. Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R005",
+    "date": "2026-04-02",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Room service took over an hour to arrive and the food was cold. Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R006",
+    "date": "2026-04-02",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. The front desk team were helpful and sorted our booking issue straight away."
+  },
+  {
+    "id": "R007",
+    "date": "2026-04-02",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. The internet on Level 3 was painfully slow in the evenings."
+  },
+  {
+    "id": "R008",
+    "date": "2026-04-02",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Our room was not cleaned until late afternoon. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R009",
+    "date": "2026-04-03",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Our requests were handled quickly and politely. The car park was full on arrival and we had to park elsewhere."
+  },
+  {
+    "id": "R010",
+    "date": "2026-04-03",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The room was modern, bright and very comfortable. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R011",
+    "date": "2026-04-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Breakfast had a fantastic selection and the coffee was excellent. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R012",
+    "date": "2026-04-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R013",
+    "date": "2026-04-03",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. Excellent service from the moment we arrived. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R014",
+    "date": "2026-04-04",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Staff were incredibly friendly and welcoming. The lift was out of service for part of our stay."
+  },
+  {
+    "id": "R015",
+    "date": "2026-04-04",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Asked for extra towels twice and they never arrived."
+  },
+  {
+    "id": "R016",
+    "date": "2026-04-04",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Parking was expensive and the car park was very tight. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R017",
+    "date": "2026-04-04",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R018",
+    "date": "2026-04-05",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R019",
+    "date": "2026-04-05",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Our room wasn't ready at check-in time and we were left waiting in the lobby. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R020",
+    "date": "2026-04-06",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Room service arrived quickly and was hot and tasty. Excellent service from the moment we arrived."
+  },
+  {
+    "id": "R021",
+    "date": "2026-04-07",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in was quick and the receptionist was lovely. Housekeeping skipped our room for a day without any explanation."
+  },
+  {
+    "id": "R022",
+    "date": "2026-04-07",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. The staff made our anniversary stay feel special. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R023",
+    "date": "2026-04-07",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R024",
+    "date": "2026-04-08",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Perfect location, a short walk to the waterfront and train station. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R025",
+    "date": "2026-04-09",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R026",
+    "date": "2026-04-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R027",
+    "date": "2026-04-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Requests to the room took far too long to be actioned."
+  },
+  {
+    "id": "R028",
+    "date": "2026-04-10",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Check-in was slow and disorganised, with a big queue of tired travellers. Front desk was professional and always had a smile."
+  },
+  {
+    "id": "R029",
+    "date": "2026-04-10",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R030",
+    "date": "2026-04-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Very noisy at night, we could hear the street and the corridor. One staff member was dismissive when we raised an issue."
+  },
+  {
+    "id": "R031",
+    "date": "2026-04-11",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Great location for exploring the city on foot. Air conditioning was either too cold or too hot, we couldn't get it comfortable."
+  },
+  {
+    "id": "R032",
+    "date": "2026-04-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Service was slow and we had to ask several times for things."
+  },
+  {
+    "id": "R033",
+    "date": "2026-04-12",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R034",
+    "date": "2026-04-12",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Staff were incredibly friendly and welcoming. Long queue at check-out on Sunday morning, nearly missed our flight."
+  },
+  {
+    "id": "R035",
+    "date": "2026-04-12",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. A light in the bathroom didn't work and wasn't repaired."
+  },
+  {
+    "id": "R036",
+    "date": "2026-04-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Smooth check-in, we were in our room within minutes. Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R037",
+    "date": "2026-04-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R038",
+    "date": "2026-04-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R039",
+    "date": "2026-04-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R040",
+    "date": "2026-04-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Perfect location, a short walk to the waterfront and train station. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R041",
+    "date": "2026-04-15",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The front desk team were helpful and sorted our booking issue straight away. Parking was expensive and the car park was very tight."
+  },
+  {
+    "id": "R042",
+    "date": "2026-04-15",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Ran out of hot food at breakfast by 9:30 and it wasn't refilled. Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R043",
+    "date": "2026-04-15",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Room service arrived quickly and was hot and tasty."
+  },
+  {
+    "id": "R044",
+    "date": "2026-04-16",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Beautiful room with a comfortable bed and a great view. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R045",
+    "date": "2026-04-16",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Beautiful room with a comfortable bed and a great view. The room was spotless and the housekeeping team did a wonderful job."
+  },
+  {
+    "id": "R046",
+    "date": "2026-04-16",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Perfect location, a short walk to the waterfront and train station. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R047",
+    "date": "2026-04-17",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Loved that the room was freshly cleaned every day. The front desk team were helpful and sorted our booking issue straight away."
+  },
+  {
+    "id": "R048",
+    "date": "2026-04-17",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The room felt dated and the bed was uncomfortable. A lovely hotel overall and we would stay again."
+  },
+  {
+    "id": "R049",
+    "date": "2026-04-17",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R050",
+    "date": "2026-04-17",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Good value for money."
+  },
+  {
+    "id": "R051",
+    "date": "2026-04-17",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R052",
+    "date": "2026-04-18",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R053",
+    "date": "2026-04-18",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Room service arrived quickly and was hot and tasty."
+  },
+  {
+    "id": "R054",
+    "date": "2026-04-18",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R055",
+    "date": "2026-04-19",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Two nights here. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R056",
+    "date": "2026-04-19",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Our requests were handled quickly and politely."
+  },
+  {
+    "id": "R057",
+    "date": "2026-04-19",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R058",
+    "date": "2026-04-20",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Family holiday. The room was smaller than expected for the price."
+  },
+  {
+    "id": "R059",
+    "date": "2026-04-20",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Beautiful room with a comfortable bed and a great view. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R060",
+    "date": "2026-04-20",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. Loved that the room was freshly cleaned every day. Our requests were handled quickly and politely."
+  },
+  {
+    "id": "R061",
+    "date": "2026-04-21",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R062",
+    "date": "2026-04-21",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R063",
+    "date": "2026-04-21",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R064",
+    "date": "2026-04-21",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Staff were flexible about our departure time, which was much appreciated. Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R065",
+    "date": "2026-04-22",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Asked for extra towels twice and they never arrived."
+  },
+  {
+    "id": "R066",
+    "date": "2026-04-22",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. The bathroom wasn't properly cleaned when we arrived, there was hair in the shower."
+  },
+  {
+    "id": "R067",
+    "date": "2026-04-23",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R068",
+    "date": "2026-04-23",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R069",
+    "date": "2026-04-24",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Great recommendations from the front desk for dinner nearby."
+  },
+  {
+    "id": "R070",
+    "date": "2026-04-24",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R071",
+    "date": "2026-04-25",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R072",
+    "date": "2026-04-25",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Self parking was simple and reasonably priced."
+  },
+  {
+    "id": "R073",
+    "date": "2026-04-26",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Housekeeping were quick to bring extra pillows when we asked. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R074",
+    "date": "2026-04-26",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. Smooth check-in, we were in our room within minutes. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R075",
+    "date": "2026-04-26",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Our requests were handled quickly and politely. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R076",
+    "date": "2026-04-27",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R077",
+    "date": "2026-04-29",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Dinner at the restaurant was excellent, especially the local seafood. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R078",
+    "date": "2026-04-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R079",
+    "date": "2026-04-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Our room was not cleaned until late afternoon."
+  },
+  {
+    "id": "R080",
+    "date": "2026-04-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R081",
+    "date": "2026-04-29",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The room was spotless and the housekeeping team did a wonderful job."
+  },
+  {
+    "id": "R082",
+    "date": "2026-04-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R083",
+    "date": "2026-04-30",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Beautiful room with a comfortable bed and a great view. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R084",
+    "date": "2026-04-30",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R085",
+    "date": "2026-04-30",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R086",
+    "date": "2026-05-01",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The staff made our anniversary stay feel special. Very noisy at night, we could hear the street and the corridor."
+  },
+  {
+    "id": "R087",
+    "date": "2026-05-01",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Wi-Fi was unreliable and slow for working remotely. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R088",
+    "date": "2026-05-01",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Check-out was slow because of a billing mistake that took ages to fix."
+  },
+  {
+    "id": "R089",
+    "date": "2026-05-02",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R090",
+    "date": "2026-05-02",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Loved that the room was freshly cleaned every day. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R091",
+    "date": "2026-05-04",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Staff were incredibly friendly and welcoming. The room was spotless and the housekeeping team did a wonderful job."
+  },
+  {
+    "id": "R092",
+    "date": "2026-05-04",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. A lovely hotel overall and we would stay again."
+  },
+  {
+    "id": "R093",
+    "date": "2026-05-04",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre. Breakfast was overcrowded and we had to wait for a table."
+  },
+  {
+    "id": "R094",
+    "date": "2026-05-05",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R095",
+    "date": "2026-05-05",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The room was spotless and the housekeeping team did a wonderful job."
+  },
+  {
+    "id": "R096",
+    "date": "2026-05-05",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R097",
+    "date": "2026-05-06",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "The room was spotless and the housekeeping team did a wonderful job. Long queue for the breakfast buffet and not enough seating."
+  },
+  {
+    "id": "R098",
+    "date": "2026-05-06",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R099",
+    "date": "2026-05-06",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Our requests were handled quickly and politely. Check-out was fast and painless."
+  },
+  {
+    "id": "R100",
+    "date": "2026-05-07",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. The front desk seemed understaffed and phone calls went unanswered."
+  },
+  {
+    "id": "R101",
+    "date": "2026-05-07",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Beautiful room with a comfortable bed and a great view. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R102",
+    "date": "2026-05-07",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Air conditioning was either too cold or too hot, we couldn't get it comfortable. Quiet room and a very restful night's sleep."
+  },
+  {
+    "id": "R103",
+    "date": "2026-05-08",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "The bar was understaffed and drinks took a long time."
+  },
+  {
+    "id": "R104",
+    "date": "2026-05-08",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R105",
+    "date": "2026-05-08",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R106",
+    "date": "2026-05-09",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R107",
+    "date": "2026-05-09",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The car park was full on arrival and we had to park elsewhere."
+  },
+  {
+    "id": "R108",
+    "date": "2026-05-09",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R109",
+    "date": "2026-05-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Easy access to the airport and city centre. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R110",
+    "date": "2026-05-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R111",
+    "date": "2026-05-11",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Asked for extra towels twice and they never arrived."
+  },
+  {
+    "id": "R112",
+    "date": "2026-05-11",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R113",
+    "date": "2026-05-12",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Service was slow and we had to ask several times for things. Room service arrived quickly and was hot and tasty."
+  },
+  {
+    "id": "R114",
+    "date": "2026-05-12",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Early check-in was arranged without any fuss, which was a great start. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R115",
+    "date": "2026-05-12",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Breakfast had a fantastic selection and the coffee was excellent. The shower drain was blocked and it took a day to be fixed."
+  },
+  {
+    "id": "R116",
+    "date": "2026-05-12",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R117",
+    "date": "2026-05-12",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Staff were flexible about our departure time, which was much appreciated."
+  },
+  {
+    "id": "R118",
+    "date": "2026-05-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R119",
+    "date": "2026-05-14",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Parking was expensive and the car park was very tight. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R120",
+    "date": "2026-05-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Easy to connect to the Wi-Fi and speeds were great for working remotely. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R121",
+    "date": "2026-05-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Front desk was professional and always had a smile."
+  },
+  {
+    "id": "R122",
+    "date": "2026-05-15",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Very noisy at night, we could hear the street and the corridor."
+  },
+  {
+    "id": "R123",
+    "date": "2026-05-15",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Check-out was fast and painless."
+  },
+  {
+    "id": "R124",
+    "date": "2026-05-16",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Wi-Fi was unreliable and slow for working remotely. Great location for exploring the city on foot."
+  },
+  {
+    "id": "R125",
+    "date": "2026-05-16",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. One staff member was dismissive when we raised an issue."
+  },
+  {
+    "id": "R126",
+    "date": "2026-05-17",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R127",
+    "date": "2026-05-19",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Breakfast had a fantastic selection and the coffee was excellent. The bar had a great atmosphere and the cocktails were well made."
+  },
+  {
+    "id": "R128",
+    "date": "2026-05-19",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Block-out curtains and quiet rooms meant we slept brilliantly."
+  },
+  {
+    "id": "R129",
+    "date": "2026-05-19",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R130",
+    "date": "2026-05-19",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. The bar had a great atmosphere and the cocktails were well made. Convenient on-site parking with plenty of space."
+  },
+  {
+    "id": "R131",
+    "date": "2026-05-20",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Staff were flexible about our departure time, which was much appreciated."
+  },
+  {
+    "id": "R132",
+    "date": "2026-05-20",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Staff were incredibly friendly and welcoming. The bar had a great atmosphere and the cocktails were well made."
+  },
+  {
+    "id": "R133",
+    "date": "2026-05-20",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. The room was modern, bright and very comfortable. Self parking was simple and reasonably priced."
+  },
+  {
+    "id": "R134",
+    "date": "2026-05-21",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R135",
+    "date": "2026-05-21",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R136",
+    "date": "2026-05-21",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Hotel facilities were a little disappointing for the rate."
+  },
+  {
+    "id": "R137",
+    "date": "2026-05-21",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Strong Wi-Fi in the room, no issues streaming. Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R138",
+    "date": "2026-05-22",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R139",
+    "date": "2026-05-22",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R140",
+    "date": "2026-05-22",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Early check-in was arranged without any fuss, which was a great start. The car park was full on arrival and we had to park elsewhere."
+  },
+  {
+    "id": "R141",
+    "date": "2026-05-22",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Ran out of hot food at breakfast by 9:30 and it wasn't refilled. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R142",
+    "date": "2026-05-22",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Housekeeping were quick to bring extra pillows when we asked. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R143",
+    "date": "2026-05-23",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Dinner at the restaurant was excellent, especially the local seafood. Quiet room and a very restful night's sleep."
+  },
+  {
+    "id": "R144",
+    "date": "2026-05-23",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. The lift was out of service for part of our stay. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R145",
+    "date": "2026-05-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R146",
+    "date": "2026-05-24",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R147",
+    "date": "2026-05-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R148",
+    "date": "2026-05-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Parking was easy and secure."
+  },
+  {
+    "id": "R149",
+    "date": "2026-05-25",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Front desk was professional and always had a smile."
+  },
+  {
+    "id": "R150",
+    "date": "2026-05-25",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Good value for money. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R151",
+    "date": "2026-05-26",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. A lovely hotel overall and we would stay again."
+  },
+  {
+    "id": "R152",
+    "date": "2026-05-26",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Loved the breakfast, fresh fruit and a great cooked menu. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R153",
+    "date": "2026-05-26",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Breakfast was well run and the staff kept everything topped up. The bar had a great atmosphere and the cocktails were well made."
+  },
+  {
+    "id": "R154",
+    "date": "2026-05-27",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R155",
+    "date": "2026-05-27",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R156",
+    "date": "2026-05-27",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. Check-in took 30 minutes and there was a long queue. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R157",
+    "date": "2026-05-27",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Excellent service from the moment we arrived."
+  },
+  {
+    "id": "R158",
+    "date": "2026-05-27",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Parking was expensive and the car park was very tight. The bar had a great atmosphere and the cocktails were well made."
+  },
+  {
+    "id": "R159",
+    "date": "2026-05-27",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Check-out was fast and painless."
+  },
+  {
+    "id": "R160",
+    "date": "2026-05-28",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Strong Wi-Fi in the room, no issues streaming."
+  },
+  {
+    "id": "R161",
+    "date": "2026-05-28",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The shower drain was blocked and it took a day to be fixed. Room service arrived quickly and was hot and tasty."
+  },
+  {
+    "id": "R162",
+    "date": "2026-05-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R163",
+    "date": "2026-05-29",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Front desk staff gave us conflicting information about our booking. Room service arrived quickly and was hot and tasty."
+  },
+  {
+    "id": "R164",
+    "date": "2026-05-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Check-out was fast and painless."
+  },
+  {
+    "id": "R165",
+    "date": "2026-05-30",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre."
+  },
+  {
+    "id": "R166",
+    "date": "2026-05-30",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R167",
+    "date": "2026-05-31",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R168",
+    "date": "2026-06-01",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R169",
+    "date": "2026-06-02",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R170",
+    "date": "2026-06-02",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre. Long queue for the breakfast buffet and not enough seating."
+  },
+  {
+    "id": "R171",
+    "date": "2026-06-02",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Check-in was slow and disorganised, with a big queue of tired travellers. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R172",
+    "date": "2026-06-02",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Asked for extra towels twice and they never arrived. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R173",
+    "date": "2026-06-03",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R174",
+    "date": "2026-06-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R175",
+    "date": "2026-06-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R176",
+    "date": "2026-06-03",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Excellent service from the moment we arrived."
+  },
+  {
+    "id": "R177",
+    "date": "2026-06-04",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Excellent service from the moment we arrived."
+  },
+  {
+    "id": "R178",
+    "date": "2026-06-05",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Two nights here. Staff seemed rushed and unfriendly during our stay."
+  },
+  {
+    "id": "R179",
+    "date": "2026-06-05",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R180",
+    "date": "2026-06-06",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Check-in took 30 minutes and there was a long queue. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R181",
+    "date": "2026-06-06",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Beautiful room with a comfortable bed and a great view. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R182",
+    "date": "2026-06-07",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Check-in was quick and the receptionist was lovely. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R183",
+    "date": "2026-06-07",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R184",
+    "date": "2026-06-07",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. The room was modern, bright and very comfortable. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R185",
+    "date": "2026-06-08",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R186",
+    "date": "2026-06-08",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R187",
+    "date": "2026-06-08",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Great location for exploring the city on foot."
+  },
+  {
+    "id": "R188",
+    "date": "2026-06-09",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. A light in the bathroom didn't work and wasn't repaired. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R189",
+    "date": "2026-06-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The room felt dated and the bed was uncomfortable. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R190",
+    "date": "2026-06-10",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Loved the spacious room and the quality of the linen. Great recommendations from the front desk for dinner nearby."
+  },
+  {
+    "id": "R191",
+    "date": "2026-06-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Excellent service from the moment we arrived."
+  },
+  {
+    "id": "R192",
+    "date": "2026-06-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Check-out was fast and painless."
+  },
+  {
+    "id": "R193",
+    "date": "2026-06-11",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Great location for exploring the city on foot. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R194",
+    "date": "2026-06-11",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R195",
+    "date": "2026-06-11",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The internet on Level 3 was painfully slow in the evenings. Everything in the room worked perfectly."
+  },
+  {
+    "id": "R196",
+    "date": "2026-06-12",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Good value for money."
+  },
+  {
+    "id": "R197",
+    "date": "2026-06-12",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R198",
+    "date": "2026-06-12",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Convenient on-site parking with plenty of space. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R199",
+    "date": "2026-06-12",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The bathroom wasn't properly cleaned when we arrived, there was hair in the shower."
+  },
+  {
+    "id": "R200",
+    "date": "2026-06-13",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R201",
+    "date": "2026-06-13",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Loved that the room was freshly cleaned every day. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R202",
+    "date": "2026-06-13",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R203",
+    "date": "2026-06-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R204",
+    "date": "2026-06-14",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Our room was not cleaned until late afternoon."
+  },
+  {
+    "id": "R205",
+    "date": "2026-06-15",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal."
+  },
+  {
+    "id": "R206",
+    "date": "2026-06-15",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R207",
+    "date": "2026-06-15",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R208",
+    "date": "2026-06-15",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Thin walls and early-morning deliveries woke us every day."
+  },
+  {
+    "id": "R209",
+    "date": "2026-06-16",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R210",
+    "date": "2026-06-16",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Our requests were handled quickly and politely."
+  },
+  {
+    "id": "R211",
+    "date": "2026-06-17",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Service was slow and we had to ask several times for things. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R212",
+    "date": "2026-06-17",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Service was attentive without being intrusive. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R213",
+    "date": "2026-06-17",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Room service arrived quickly and was hot and tasty. Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R214",
+    "date": "2026-06-17",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R215",
+    "date": "2026-06-17",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Check-out was fast and painless."
+  },
+  {
+    "id": "R216",
+    "date": "2026-06-18",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. A lovely hotel overall and we would stay again. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R217",
+    "date": "2026-06-18",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Express check-out made leaving easy before our flight. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R218",
+    "date": "2026-06-18",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R219",
+    "date": "2026-06-18",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Breakfast was overcrowded and we had to wait for a table."
+  },
+  {
+    "id": "R220",
+    "date": "2026-06-19",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre. Nobody followed up after we reported a problem."
+  },
+  {
+    "id": "R221",
+    "date": "2026-06-20",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Check-out was fast and painless. The bathroom wasn't properly cleaned when we arrived, there was hair in the shower."
+  },
+  {
+    "id": "R222",
+    "date": "2026-06-20",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R223",
+    "date": "2026-06-20",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R224",
+    "date": "2026-06-21",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. A lovely hotel overall and we would stay again."
+  },
+  {
+    "id": "R225",
+    "date": "2026-06-21",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. The front desk team were helpful and sorted our booking issue straight away."
+  },
+  {
+    "id": "R226",
+    "date": "2026-06-22",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R227",
+    "date": "2026-06-22",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Great recommendations from the front desk for dinner nearby."
+  },
+  {
+    "id": "R228",
+    "date": "2026-06-22",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Very noisy at night, we could hear the street and the corridor. Great location for exploring the city on foot."
+  },
+  {
+    "id": "R229",
+    "date": "2026-06-22",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Business trip. Dinner at the restaurant was average and overpriced."
+  },
+  {
+    "id": "R230",
+    "date": "2026-06-23",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Two nights here. Not great value for money compared with similar hotels."
+  },
+  {
+    "id": "R231",
+    "date": "2026-06-23",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Family holiday. One staff member was dismissive when we raised an issue."
+  },
+  {
+    "id": "R232",
+    "date": "2026-06-23",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Service was attentive without being intrusive. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R233",
+    "date": "2026-06-23",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Housekeeping were quick to bring extra pillows when we asked. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R234",
+    "date": "2026-06-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Dinner at the restaurant was excellent, especially the local seafood. Great recommendations from the front desk for dinner nearby."
+  },
+  {
+    "id": "R235",
+    "date": "2026-06-25",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Loved the spacious room and the quality of the linen. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R236",
+    "date": "2026-06-25",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R237",
+    "date": "2026-06-26",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Facilities were in excellent condition."
+  },
+  {
+    "id": "R238",
+    "date": "2026-06-27",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre."
+  },
+  {
+    "id": "R239",
+    "date": "2026-06-27",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Staff seemed rushed and unfriendly during our stay. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R240",
+    "date": "2026-06-28",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R241",
+    "date": "2026-06-28",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Beautiful room with a comfortable bed and a great view. Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R242",
+    "date": "2026-06-28",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R243",
+    "date": "2026-06-28",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "The front desk team were helpful and sorted our booking issue straight away. Breakfast was chaotic on the weekend, with dirty tables everywhere."
+  },
+  {
+    "id": "R244",
+    "date": "2026-06-28",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R245",
+    "date": "2026-06-28",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Parking was expensive and the car park was very tight. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R246",
+    "date": "2026-06-28",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Express check-out made leaving easy before our flight. Facilities were in excellent condition."
+  },
+  {
+    "id": "R247",
+    "date": "2026-06-29",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. The front desk team were helpful and sorted our booking issue straight away."
+  },
+  {
+    "id": "R248",
+    "date": "2026-06-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Early check-in was arranged without any fuss, which was a great start. A light in the bathroom didn't work and wasn't repaired."
+  },
+  {
+    "id": "R249",
+    "date": "2026-06-30",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R250",
+    "date": "2026-06-30",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Perfect location, a short walk to the waterfront and train station. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R251",
+    "date": "2026-06-30",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Great pool and gym facilities. The front desk seemed understaffed and phone calls went unanswered."
+  },
+  {
+    "id": "R252",
+    "date": "2026-07-01",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The front desk team were helpful and sorted our booking issue straight away."
+  },
+  {
+    "id": "R253",
+    "date": "2026-07-01",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R254",
+    "date": "2026-07-01",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R255",
+    "date": "2026-07-03",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R256",
+    "date": "2026-07-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Strong Wi-Fi in the room, no issues streaming."
+  },
+  {
+    "id": "R257",
+    "date": "2026-07-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Staff were flexible about our departure time, which was much appreciated."
+  },
+  {
+    "id": "R258",
+    "date": "2026-07-03",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R259",
+    "date": "2026-07-03",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Family holiday. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R260",
+    "date": "2026-07-03",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Long queue for the breakfast buffet and not enough seating. Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R261",
+    "date": "2026-07-03",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Housekeeping skipped our room for a day without any explanation. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R262",
+    "date": "2026-07-04",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Check-in was slow and disorganised, with a big queue of tired travellers. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R263",
+    "date": "2026-07-06",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Two nights here. Thin walls and early-morning deliveries woke us every day."
+  },
+  {
+    "id": "R264",
+    "date": "2026-07-07",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Room service arrived quickly and was hot and tasty."
+  },
+  {
+    "id": "R265",
+    "date": "2026-07-07",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Family holiday. Breakfast was chaotic on the weekend, with dirty tables everywhere."
+  },
+  {
+    "id": "R266",
+    "date": "2026-07-07",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Breakfast was overcrowded and we had to wait for a table."
+  },
+  {
+    "id": "R267",
+    "date": "2026-07-07",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Family holiday. Hotel facilities were a little disappointing for the rate. Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal."
+  },
+  {
+    "id": "R268",
+    "date": "2026-07-07",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Thin walls and early-morning deliveries woke us every day. Service was slow and we had to ask several times for things."
+  },
+  {
+    "id": "R269",
+    "date": "2026-07-09",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Thin walls and early-morning deliveries woke us every day. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R270",
+    "date": "2026-07-09",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The room was spotless and the housekeeping team did a wonderful job."
+  },
+  {
+    "id": "R271",
+    "date": "2026-07-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R272",
+    "date": "2026-07-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R273",
+    "date": "2026-07-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R274",
+    "date": "2026-07-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R275",
+    "date": "2026-07-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Two nights here. Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal. The bar had a great atmosphere and the cocktails were well made."
+  },
+  {
+    "id": "R276",
+    "date": "2026-07-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R277",
+    "date": "2026-07-10",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Business trip. Service was slow and we had to ask several times for things."
+  },
+  {
+    "id": "R278",
+    "date": "2026-07-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "The pool area was crowded and the gym equipment was limited."
+  },
+  {
+    "id": "R279",
+    "date": "2026-07-12",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. The staff made our anniversary stay feel special. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R280",
+    "date": "2026-07-12",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The staff made our anniversary stay feel special. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R281",
+    "date": "2026-07-12",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R282",
+    "date": "2026-07-14",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Breakfast was well run and the staff kept everything topped up. Dinner at the restaurant was average and overpriced."
+  },
+  {
+    "id": "R283",
+    "date": "2026-07-14",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Had to queue at the front desk just to ask a simple question. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R284",
+    "date": "2026-07-14",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Nobody followed up after we reported a problem."
+  },
+  {
+    "id": "R285",
+    "date": "2026-07-14",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Dinner at the restaurant was average and overpriced. Requests to the room took far too long to be actioned."
+  },
+  {
+    "id": "R286",
+    "date": "2026-07-15",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R287",
+    "date": "2026-07-15",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in took 30 minutes and there was a long queue. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R288",
+    "date": "2026-07-16",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Wi-Fi kept dropping out in our room on Level 3, impossible to join a video call."
+  },
+  {
+    "id": "R289",
+    "date": "2026-07-17",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Convenient on-site parking with plenty of space."
+  },
+  {
+    "id": "R290",
+    "date": "2026-07-17",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Great recommendations from the front desk for dinner nearby. Wi-Fi was unreliable and slow for working remotely."
+  },
+  {
+    "id": "R291",
+    "date": "2026-07-17",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Nobody followed up after we reported a problem."
+  },
+  {
+    "id": "R292",
+    "date": "2026-07-17",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R293",
+    "date": "2026-07-18",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Self parking was simple and reasonably priced. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R294",
+    "date": "2026-07-18",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Our room was not cleaned until late afternoon. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R295",
+    "date": "2026-07-19",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Hard to find a parking spot and no one could tell us where to go. Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R296",
+    "date": "2026-07-19",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Convenient on-site parking with plenty of space. Had to queue at the front desk just to ask a simple question."
+  },
+  {
+    "id": "R297",
+    "date": "2026-07-19",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. The internet on Level 3 was painfully slow in the evenings. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R298",
+    "date": "2026-07-20",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Long queue for the breakfast buffet and not enough seating."
+  },
+  {
+    "id": "R299",
+    "date": "2026-07-21",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Two nights here. Wi-Fi was unreliable and slow for working remotely."
+  },
+  {
+    "id": "R300",
+    "date": "2026-07-21",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R301",
+    "date": "2026-07-21",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R302",
+    "date": "2026-07-21",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Two nights here. Wi-Fi kept dropping out in our room on Level 3, impossible to join a video call."
+  },
+  {
+    "id": "R303",
+    "date": "2026-07-21",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Great location for exploring the city on foot."
+  },
+  {
+    "id": "R304",
+    "date": "2026-07-21",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Beautiful room with a comfortable bed and a great view. The front desk seemed understaffed and phone calls went unanswered."
+  },
+  {
+    "id": "R305",
+    "date": "2026-07-22",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R306",
+    "date": "2026-07-22",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Early check-in was arranged without any fuss, which was a great start. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R307",
+    "date": "2026-07-23",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Breakfast was chaotic on the weekend, with dirty tables everywhere. Parking was easy and secure."
+  },
+  {
+    "id": "R308",
+    "date": "2026-07-23",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Everything in the room worked perfectly. Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R309",
+    "date": "2026-07-23",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Check-out was slow because of a billing mistake that took ages to fix."
+  },
+  {
+    "id": "R310",
+    "date": "2026-07-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Strong Wi-Fi in the room, no issues streaming."
+  },
+  {
+    "id": "R311",
+    "date": "2026-07-25",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The room was spotless and the housekeeping team did a wonderful job. Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R312",
+    "date": "2026-07-25",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R313",
+    "date": "2026-07-26",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R314",
+    "date": "2026-07-26",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. One staff member was dismissive when we raised an issue."
+  },
+  {
+    "id": "R315",
+    "date": "2026-07-26",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Every team member we met went out of their way to help. Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R316",
+    "date": "2026-07-26",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Long queue for the breakfast buffet and not enough seating."
+  },
+  {
+    "id": "R317",
+    "date": "2026-07-26",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R318",
+    "date": "2026-07-27",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Two nights here. Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal."
+  },
+  {
+    "id": "R319",
+    "date": "2026-07-27",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Hard to find a parking spot and no one could tell us where to go. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R320",
+    "date": "2026-07-28",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre."
+  },
+  {
+    "id": "R321",
+    "date": "2026-07-28",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Family holiday. Wi-Fi kept dropping out in our room on Level 3, impossible to join a video call."
+  },
+  {
+    "id": "R322",
+    "date": "2026-07-29",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Breakfast was chaotic on the weekend, with dirty tables everywhere."
+  },
+  {
+    "id": "R323",
+    "date": "2026-07-29",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Check-in was quick and the receptionist was lovely. Loved that the room was freshly cleaned every day."
+  },
+  {
+    "id": "R324",
+    "date": "2026-07-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Surprisingly peaceful for a city hotel."
+  },
+  {
+    "id": "R325",
+    "date": "2026-07-29",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Staff were incredibly friendly and welcoming. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R326",
+    "date": "2026-07-30",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Express check-out made leaving easy before our flight. The room was spotless and the housekeeping team did a wonderful job."
+  },
+  {
+    "id": "R327",
+    "date": "2026-07-30",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The front desk team were helpful and sorted our booking issue straight away. Had to ask for the Wi-Fi password twice and the connection was patchy."
+  },
+  {
+    "id": "R328",
+    "date": "2026-07-30",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R329",
+    "date": "2026-07-31",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Staff seemed rushed and unfriendly during our stay."
+  },
+  {
+    "id": "R330",
+    "date": "2026-07-31",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Asked for extra towels twice and they never arrived. Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R331",
+    "date": "2026-07-31",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Breakfast was well run and the staff kept everything topped up. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R332",
+    "date": "2026-07-31",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R333",
+    "date": "2026-08-01",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Parking was expensive and the car park was very tight. Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal."
+  },
+  {
+    "id": "R334",
+    "date": "2026-08-01",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. The bar was understaffed and drinks took a long time. Our room was not cleaned until late afternoon."
+  },
+  {
+    "id": "R335",
+    "date": "2026-08-01",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Front desk was professional and always had a smile. The bar had a great atmosphere and the cocktails were well made."
+  },
+  {
+    "id": "R336",
+    "date": "2026-08-02",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R337",
+    "date": "2026-08-02",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R338",
+    "date": "2026-08-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. The front desk team were helpful and sorted our booking issue straight away. Block-out curtains and quiet rooms meant we slept brilliantly."
+  },
+  {
+    "id": "R339",
+    "date": "2026-08-03",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. The staff made our anniversary stay feel special. Thin walls and early-morning deliveries woke us every day."
+  },
+  {
+    "id": "R340",
+    "date": "2026-08-03",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R341",
+    "date": "2026-08-03",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Self parking was simple and reasonably priced. Was charged for a minibar item we never used and it took a while to be removed."
+  },
+  {
+    "id": "R342",
+    "date": "2026-08-03",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Great location for exploring the city on foot. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R343",
+    "date": "2026-08-04",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Long queue at check-out on Sunday morning, nearly missed our flight. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R344",
+    "date": "2026-08-04",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers. Long queue for the breakfast buffet and not enough seating."
+  },
+  {
+    "id": "R345",
+    "date": "2026-08-04",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Great location for exploring the city on foot. Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R346",
+    "date": "2026-08-06",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk. Had to ask for the Wi-Fi password twice and the connection was patchy."
+  },
+  {
+    "id": "R347",
+    "date": "2026-08-06",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R348",
+    "date": "2026-08-07",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R349",
+    "date": "2026-08-07",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Loved that the room was freshly cleaned every day. The lift was out of service for part of our stay."
+  },
+  {
+    "id": "R350",
+    "date": "2026-08-07",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R351",
+    "date": "2026-08-07",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R352",
+    "date": "2026-08-07",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R353",
+    "date": "2026-08-08",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. Smooth check-in, we were in our room within minutes. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R354",
+    "date": "2026-08-08",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Check-in was slow and disorganised, with a big queue of tired travellers. Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R355",
+    "date": "2026-08-10",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Loved the spacious room and the quality of the linen. Had to ask for the Wi-Fi password twice and the connection was patchy."
+  },
+  {
+    "id": "R356",
+    "date": "2026-08-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal. Room service arrived quickly and was hot and tasty."
+  },
+  {
+    "id": "R357",
+    "date": "2026-08-10",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "The internet on Level 3 was painfully slow in the evenings. Convenient on-site parking with plenty of space."
+  },
+  {
+    "id": "R358",
+    "date": "2026-08-10",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R359",
+    "date": "2026-08-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Wi-Fi was unreliable and slow for working remotely. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R360",
+    "date": "2026-08-11",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R361",
+    "date": "2026-08-11",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R362",
+    "date": "2026-08-11",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Great location for exploring the city on foot."
+  },
+  {
+    "id": "R363",
+    "date": "2026-08-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R364",
+    "date": "2026-08-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Air conditioning was either too cold or too hot, we couldn't get it comfortable."
+  },
+  {
+    "id": "R365",
+    "date": "2026-08-12",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Was charged for a minibar item we never used and it took a while to be removed."
+  },
+  {
+    "id": "R366",
+    "date": "2026-08-12",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R367",
+    "date": "2026-08-13",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Parking was easy and secure. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R368",
+    "date": "2026-08-13",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Check-in was quick and the receptionist was lovely. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R369",
+    "date": "2026-08-15",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The room was spotless and the housekeeping team did a wonderful job. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R370",
+    "date": "2026-08-15",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Check-in was quick and the receptionist was lovely. The car park was full on arrival and we had to park elsewhere."
+  },
+  {
+    "id": "R371",
+    "date": "2026-08-16",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "One staff member was dismissive when we raised an issue. Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R372",
+    "date": "2026-08-17",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Dinner at the restaurant was excellent, especially the local seafood. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R373",
+    "date": "2026-08-18",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Excellent service from the moment we arrived. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R374",
+    "date": "2026-08-18",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Thin walls and early-morning deliveries woke us every day. The internet on Level 3 was painfully slow in the evenings."
+  },
+  {
+    "id": "R375",
+    "date": "2026-08-18",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Breakfast was overcrowded and we had to wait for a table. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R376",
+    "date": "2026-08-19",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. Parking was easy and secure."
+  },
+  {
+    "id": "R377",
+    "date": "2026-08-20",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R378",
+    "date": "2026-08-20",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R379",
+    "date": "2026-08-20",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Self parking was simple and reasonably priced."
+  },
+  {
+    "id": "R380",
+    "date": "2026-08-21",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Great recommendations from the front desk for dinner nearby. The car park was full on arrival and we had to park elsewhere."
+  },
+  {
+    "id": "R381",
+    "date": "2026-08-21",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Block-out curtains and quiet rooms meant we slept brilliantly."
+  },
+  {
+    "id": "R382",
+    "date": "2026-08-21",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal."
+  },
+  {
+    "id": "R383",
+    "date": "2026-08-22",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Block-out curtains and quiet rooms meant we slept brilliantly. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R384",
+    "date": "2026-08-22",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Good value for money."
+  },
+  {
+    "id": "R385",
+    "date": "2026-08-22",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R386",
+    "date": "2026-08-23",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Staff seemed rushed and unfriendly during our stay. The front desk team were helpful and sorted our booking issue straight away."
+  },
+  {
+    "id": "R387",
+    "date": "2026-08-23",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R388",
+    "date": "2026-08-23",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Our room wasn't ready at check-in time and we were left waiting in the lobby. Breakfast was chaotic on the weekend, with dirty tables everywhere."
+  },
+  {
+    "id": "R389",
+    "date": "2026-08-23",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R390",
+    "date": "2026-08-23",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "The internet on Level 3 was painfully slow in the evenings."
+  },
+  {
+    "id": "R391",
+    "date": "2026-08-24",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R392",
+    "date": "2026-08-24",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Had to queue at the front desk just to ask a simple question."
+  },
+  {
+    "id": "R393",
+    "date": "2026-08-24",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R394",
+    "date": "2026-08-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Easy access to the airport and city centre."
+  },
+  {
+    "id": "R395",
+    "date": "2026-08-24",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Nobody followed up after we reported a problem. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R396",
+    "date": "2026-08-24",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Asked for extra towels twice and they never arrived. Had to queue at the front desk just to ask a simple question."
+  },
+  {
+    "id": "R397",
+    "date": "2026-08-24",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers. Beautiful room with a comfortable bed and a great view."
+  },
+  {
+    "id": "R398",
+    "date": "2026-08-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. Every team member we met went out of their way to help. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R399",
+    "date": "2026-08-25",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R400",
+    "date": "2026-08-25",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Very noisy at night, we could hear the street and the corridor. Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal."
+  },
+  {
+    "id": "R401",
+    "date": "2026-08-25",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R402",
+    "date": "2026-08-25",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Early check-in was arranged without any fuss, which was a great start. The front desk seemed understaffed and phone calls went unanswered."
+  },
+  {
+    "id": "R403",
+    "date": "2026-08-25",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Thin walls and early-morning deliveries woke us every day. A lovely hotel overall and we would stay again."
+  },
+  {
+    "id": "R404",
+    "date": "2026-08-26",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Very noisy at night, we could hear the street and the corridor. The room felt dated and the bed was uncomfortable."
+  },
+  {
+    "id": "R405",
+    "date": "2026-08-26",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R406",
+    "date": "2026-08-27",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R407",
+    "date": "2026-08-27",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. Express check-out made leaving easy before our flight."
+  },
+  {
+    "id": "R408",
+    "date": "2026-08-27",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Two nights here. The bar had a great atmosphere and the cocktails were well made. Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R409",
+    "date": "2026-08-28",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R410",
+    "date": "2026-08-28",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Check-in was slow and disorganised, with a big queue of tired travellers. The room was modern, bright and very comfortable."
+  },
+  {
+    "id": "R411",
+    "date": "2026-08-28",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. The room was spotless and the housekeeping team did a wonderful job. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R412",
+    "date": "2026-08-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "The front desk seemed understaffed and phone calls went unanswered."
+  },
+  {
+    "id": "R413",
+    "date": "2026-08-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Loud guests next door kept us up until 2 am and nothing was done."
+  },
+  {
+    "id": "R414",
+    "date": "2026-08-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Service was attentive without being intrusive."
+  },
+  {
+    "id": "R415",
+    "date": "2026-08-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Front desk was professional and always had a smile. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R416",
+    "date": "2026-08-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Had to ask for the Wi-Fi password twice and the connection was patchy."
+  },
+  {
+    "id": "R417",
+    "date": "2026-08-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Our requests were handled quickly and politely. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R418",
+    "date": "2026-08-30",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R419",
+    "date": "2026-08-30",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The room was modern, bright and very comfortable. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R420",
+    "date": "2026-08-30",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Hard to find a parking spot and no one could tell us where to go. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R421",
+    "date": "2026-08-30",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Check-in took 30 minutes and there was a long queue. Block-out curtains and quiet rooms meant we slept brilliantly."
+  },
+  {
+    "id": "R422",
+    "date": "2026-08-31",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. The room was modern, bright and very comfortable. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R423",
+    "date": "2026-08-31",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R424",
+    "date": "2026-08-31",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R425",
+    "date": "2026-08-31",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Business trip. Staff were incredibly friendly and welcoming. Early check-in was arranged without any fuss, which was a great start."
+  },
+  {
+    "id": "R426",
+    "date": "2026-09-01",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "The car park was full on arrival and we had to park elsewhere. Staff were incredibly friendly and welcoming."
+  },
+  {
+    "id": "R427",
+    "date": "2026-09-02",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Ran out of hot food at breakfast by 9:30 and it wasn't refilled. Perfect location, a short walk to the waterfront and train station."
+  },
+  {
+    "id": "R428",
+    "date": "2026-09-03",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Hard to find a parking spot and no one could tell us where to go. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R429",
+    "date": "2026-09-04",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Ran out of hot food at breakfast by 9:30 and it wasn't refilled. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R430",
+    "date": "2026-09-04",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Family holiday. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R431",
+    "date": "2026-09-04",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R432",
+    "date": "2026-09-05",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Front desk staff gave us conflicting information about our booking. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R433",
+    "date": "2026-09-06",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Our requests were handled quickly and politely."
+  },
+  {
+    "id": "R434",
+    "date": "2026-09-06",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R435",
+    "date": "2026-09-06",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Felt like staff didn't know how to answer basic questions."
+  },
+  {
+    "id": "R436",
+    "date": "2026-09-07",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R437",
+    "date": "2026-09-07",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Family holiday. Excellent service from the moment we arrived. Hotel facilities were a little disappointing for the rate."
+  },
+  {
+    "id": "R438",
+    "date": "2026-09-07",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "The staff made our anniversary stay feel special. Our requests were handled quickly and politely."
+  },
+  {
+    "id": "R439",
+    "date": "2026-09-08",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Housekeeping skipped our room for a day without any explanation."
+  },
+  {
+    "id": "R440",
+    "date": "2026-09-08",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R441",
+    "date": "2026-09-08",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R442",
+    "date": "2026-09-08",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Express check-out made leaving easy before our flight."
+  },
+  {
+    "id": "R443",
+    "date": "2026-09-09",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Business trip. Long queue for the breakfast buffet and not enough seating."
+  },
+  {
+    "id": "R444",
+    "date": "2026-09-09",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The front desk team were helpful and sorted our booking issue straight away."
+  },
+  {
+    "id": "R445",
+    "date": "2026-09-10",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R446",
+    "date": "2026-09-10",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Excellent service from the moment we arrived."
+  },
+  {
+    "id": "R447",
+    "date": "2026-09-10",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "The room was spotless and the housekeeping team did a wonderful job. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R448",
+    "date": "2026-09-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "The room was modern, bright and very comfortable. Check-in took 30 minutes and there was a long queue."
+  },
+  {
+    "id": "R449",
+    "date": "2026-09-11",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal. Great pool and gym facilities."
+  },
+  {
+    "id": "R450",
+    "date": "2026-09-11",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Two nights here. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R451",
+    "date": "2026-09-12",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Wi-Fi was fast and reliable throughout our stay. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R452",
+    "date": "2026-09-13",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Breakfast was chaotic on the weekend, with dirty tables everywhere. Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R453",
+    "date": "2026-09-13",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R454",
+    "date": "2026-09-13",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "The pool area was crowded and the gym equipment was limited."
+  },
+  {
+    "id": "R455",
+    "date": "2026-09-14",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. Our room wasn't ready at check-in time and we were left waiting in the lobby. A lovely hotel overall and we would stay again."
+  },
+  {
+    "id": "R456",
+    "date": "2026-09-14",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Breakfast was chaotic on the weekend, with dirty tables everywhere."
+  },
+  {
+    "id": "R457",
+    "date": "2026-09-14",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Great location for exploring the city on foot. Air conditioning was either too cold or too hot, we couldn't get it comfortable."
+  },
+  {
+    "id": "R458",
+    "date": "2026-09-14",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Business trip. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R459",
+    "date": "2026-09-14",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. The bathroom wasn't properly cleaned when we arrived, there was hair in the shower."
+  },
+  {
+    "id": "R460",
+    "date": "2026-09-14",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "The staff made our anniversary stay feel special."
+  },
+  {
+    "id": "R461",
+    "date": "2026-09-15",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Our requests were handled quickly and politely."
+  },
+  {
+    "id": "R462",
+    "date": "2026-09-15",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R463",
+    "date": "2026-09-16",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Check-in was quick and the receptionist was lovely."
+  },
+  {
+    "id": "R464",
+    "date": "2026-09-16",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Our room wasn't ready at check-in time and we were left waiting in the lobby. Front desk staff gave us conflicting information about our booking."
+  },
+  {
+    "id": "R465",
+    "date": "2026-09-16",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Every team member we met went out of their way to help. Service was attentive without being intrusive."
+  },
+  {
+    "id": "R466",
+    "date": "2026-09-16",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. The room was modern, bright and very comfortable. Convenient on-site parking with plenty of space."
+  },
+  {
+    "id": "R467",
+    "date": "2026-09-16",
+    "rating": 1,
+    "source": "Synthetic",
+    "text": "Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R468",
+    "date": "2026-09-18",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Smooth check-in, we were in our room within minutes. Loved the spacious room and the quality of the linen."
+  },
+  {
+    "id": "R469",
+    "date": "2026-09-18",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R470",
+    "date": "2026-09-18",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. The staff made our anniversary stay feel special. Loved the breakfast, fresh fruit and a great cooked menu."
+  },
+  {
+    "id": "R471",
+    "date": "2026-09-18",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers. Housekeeping were quick to bring extra pillows when we asked."
+  },
+  {
+    "id": "R472",
+    "date": "2026-09-19",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Check-out was fast and painless. Wi-Fi was fast and reliable throughout our stay."
+  },
+  {
+    "id": "R473",
+    "date": "2026-09-19",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Business trip. Excellent service from the moment we arrived."
+  },
+  {
+    "id": "R474",
+    "date": "2026-09-20",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Thin walls and early-morning deliveries woke us every day. Every team member we met went out of their way to help."
+  },
+  {
+    "id": "R475",
+    "date": "2026-09-20",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk. Easy to connect to the Wi-Fi and speeds were great for working remotely."
+  },
+  {
+    "id": "R476",
+    "date": "2026-09-20",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Family holiday. The front desk team were helpful and sorted our booking issue straight away. Breakfast was chaotic on the weekend, with dirty tables everywhere."
+  },
+  {
+    "id": "R477",
+    "date": "2026-09-21",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Two nights here. The staff made our anniversary stay feel special. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R478",
+    "date": "2026-09-22",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Business trip. Strong Wi-Fi in the room, no issues streaming. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk."
+  },
+  {
+    "id": "R479",
+    "date": "2026-09-22",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Breakfast was well run and the staff kept everything topped up."
+  },
+  {
+    "id": "R480",
+    "date": "2026-09-22",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R481",
+    "date": "2026-09-22",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Business trip. The internet on Level 3 was painfully slow in the evenings."
+  },
+  {
+    "id": "R482",
+    "date": "2026-09-23",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Two nights here. The internet on Level 3 was painfully slow in the evenings."
+  },
+  {
+    "id": "R483",
+    "date": "2026-09-23",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Everything in the room worked perfectly. Breakfast had a fantastic selection and the coffee was excellent."
+  },
+  {
+    "id": "R484",
+    "date": "2026-09-23",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Great location for exploring the city on foot. Dinner at the restaurant was excellent, especially the local seafood."
+  },
+  {
+    "id": "R485",
+    "date": "2026-09-24",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Self parking was simple and reasonably priced."
+  },
+  {
+    "id": "R486",
+    "date": "2026-09-24",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Service was slow and we had to ask several times for things. Ran out of hot food at breakfast by 9:30 and it wasn't refilled."
+  },
+  {
+    "id": "R487",
+    "date": "2026-09-24",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Staff were incredibly friendly and welcoming. Our room wasn't ready at check-in time and we were left waiting in the lobby."
+  },
+  {
+    "id": "R488",
+    "date": "2026-09-24",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Great recommendations from the front desk for dinner nearby. Block-out curtains and quiet rooms meant we slept brilliantly."
+  },
+  {
+    "id": "R489",
+    "date": "2026-09-25",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Check-in was slow and disorganised, with a big queue of tired travellers. Long queue for the breakfast buffet and not enough seating."
+  },
+  {
+    "id": "R490",
+    "date": "2026-09-25",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Stayed for a conference. Staff were incredibly friendly and welcoming. Great recommendations from the front desk for dinner nearby."
+  },
+  {
+    "id": "R491",
+    "date": "2026-09-25",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Hard to find a parking spot and no one could tell us where to go. Smooth check-in, we were in our room within minutes."
+  },
+  {
+    "id": "R492",
+    "date": "2026-09-26",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Our room wasn't ready at check-in time and we were left waiting in the lobby. Housekeeping skipped our room for a day without any explanation."
+  },
+  {
+    "id": "R493",
+    "date": "2026-09-26",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Stayed for a weekend away. Our room was not cleaned until late afternoon."
+  },
+  {
+    "id": "R494",
+    "date": "2026-09-27",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Long queue at check-out on Sunday morning, nearly missed our flight."
+  },
+  {
+    "id": "R495",
+    "date": "2026-09-29",
+    "rating": 5,
+    "source": "Synthetic",
+    "text": "Family holiday. Easy access to the airport and city centre."
+  },
+  {
+    "id": "R496",
+    "date": "2026-09-29",
+    "rating": 3,
+    "source": "Synthetic",
+    "text": "Two nights here. Arrived mid-afternoon and waited ages in the check-in line with only one person at the desk. Wi-Fi in the lobby was fine but my room on Level 3 had almost no signal."
+  },
+  {
+    "id": "R497",
+    "date": "2026-09-29",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Parking was expensive and the car park was very tight. Quiet room and a very restful night's sleep."
+  },
+  {
+    "id": "R498",
+    "date": "2026-09-30",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Two nights here. Service was slow and we had to ask several times for things. Check-in was slow and disorganised, with a big queue of tired travellers."
+  },
+  {
+    "id": "R499",
+    "date": "2026-09-30",
+    "rating": 4,
+    "source": "Synthetic",
+    "text": "Surprisingly peaceful for a city hotel."
+  },
+  {
+    "id": "R500",
+    "date": "2026-09-30",
+    "rating": 2,
+    "source": "Synthetic",
+    "text": "Family holiday. Air conditioning was either too cold or too hot, we couldn't get it comfortable."
+  }
+]
